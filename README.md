@@ -11,7 +11,7 @@
 
 - 👯 I’m Learning [Next.js + TypeScript](https://github.com/Ashutosh1406/Mysterify)
 
-- 💬 Ask me about **Software Engineering Principles**
+- 💬 Ask me about **Software Engineering Stuff**
 
 - 📫 How to reach me **ashutosh.linkedin14@gmail.com**
 
