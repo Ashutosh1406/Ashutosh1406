@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Production Level Backend Application](https://github.com/Ashutosh1406/ch-backend)
 
-- 🌱 I’m currently learning **TypeScript + GoLang + LoadBalacers + ApiGateway + Caching**
+- 🌱 I’m currently learning **TypeScript + GoLang + LoadBalancers + ApiGateway + Caching**
 
 - 👯 I’m Learning [Next.js + TypeScript](https://github.com/Ashutosh1406/Mysterify)
 
